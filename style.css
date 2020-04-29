@@ -1,0 +1,22 @@
+.grid {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-flow: row wrap;
+  border: solid 1px black;
+}
+
+.grid > div {
+  width: 20px;
+  height: 20px;
+}
+
+.snake {
+  background-color: forestgreen;
+}
+
+.apple {
+  background-color: crimson;
+}
+
+/*# sourceMappingURL=style.css.map */
